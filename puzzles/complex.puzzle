@@ -1,0 +1,8 @@
+>> "Easy" "An easy puzzle to get started"
+
+(table, "you sit at this", DOWN, 0, 4)
+(book, "you read this", ACROSS, 2, 4)
+(house, "you live here", ACROSS, 4, 0)
+(student, "you are this", DOWN, 4, 3)
+(window, "lets in light", ACROSS, 7, 0)
+(sandwich, "you eat this", ACROSS, 9, 1)

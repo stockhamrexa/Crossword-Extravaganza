@@ -1,0 +1,6 @@
+>> "Overlap" "A puzzle with a word that is entirely overlapped by others"
+
+ (score, "a goal", ACROSS, 0, 0) 
+ (mat, "lounging place for feline companion", ACROSS, 1, 0) 
+ (store, "where you buy things", ACROSS, 2, 0) 
+ (cat, "feline companion", DOWN, 0, 1)
